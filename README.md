@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/amitsrivastava0770/DemoSetUp/_apis/build/status/Amit4india.pipelines-java?branchName=master)](https://dev.azure.com/amitsrivastava0770/DemoSetUp/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
